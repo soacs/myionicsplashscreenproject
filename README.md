@@ -1,0 +1,2 @@
+# myionicsplashscreenproject
+training for myionicspashscreenproject
